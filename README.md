@@ -4,7 +4,7 @@ Página web personal desarrollada como proyecto práctico en el ciclo de **Desar
 La página contiene una breve presentación sobre mí, una serie de proyectos académicos, mis habilidades técnicas y personales, y modos de contacto. 
 Todo el contenido tiene un diseño moderno y responsive.
 
-🌐 **Enlace a la página publicada:** https://rares-talos.github.io/mi-portafolio/
+🌐 **Enlace a la página publicada:** https://rares-talos.github.io/mi-portafolio-/
 
 ## 🛠️ Tecnologías utilizadas
 
