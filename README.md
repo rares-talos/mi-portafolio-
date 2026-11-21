@@ -1,10 +1,10 @@
-# Portfolio Personal - Rares Nicolae Talos
+# Portafolio Personal - Rares Nicolae Talos
 
 Página web personal desarrollada como proyecto práctico en el ciclo de **Desarrollo de Aplicaciones Web (DAW)**. 
 La página contiene una breve presentación sobre mí, una serie de proyectos académicos, mis habilidades técnicas y personales, y modos de contacto. 
 Todo el contenido tiene un diseño moderno y responsive.
 
-🌐 **Enlace a la página publicada:** https://rares-talos.github.io/mi-portfolio/
+🌐 **Enlace a la página publicada:** https://rares-talos.github.io/mi-portafolio/
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -15,7 +15,7 @@ Todo el contenido tiene un diseño moderno y responsive.
 
 ## 📂 Estructura del proyecto
 
-* `index.html`: Página principal con todas las secciones del portfolio.
+* `index.html`: Página principal con todas las secciones del portafolio.
 * `css/style.css`: Hoja de estilos personalizada y adaptable a móviles.
 * `README.md`: Documentación descriptiva del proyecto.
 
